@@ -24,8 +24,8 @@ The implementation features:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/marcointrovigne/qdrant-challenge.git
+cd qdrant-challenge
 ```
 
 2. Create and activate a virtual environment (recommended):
